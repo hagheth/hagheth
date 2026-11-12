@@ -67,6 +67,8 @@ Skilled in **SQL, Python, R, Power BI, and Excel**, with hands-on project experi
 
 <div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/hagheth/hagheth/output/github-snake-dark.svg)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=hagheth&theme=tokyonight&hide_border=true)
 
 </div>
