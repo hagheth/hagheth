@@ -69,6 +69,15 @@ Skilled in **SQL, Python, R, Power BI, and Excel**, with hands-on project experi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hagheth&theme=tokyonight&hide_border=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=hagheth&theme=tokyonight&no-frame=true&row=1)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hagheth&theme=tokyo-night&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hagheth&color=blue&style=for-the-badge)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hagheth&theme=tokyonight&hide_border=true)
+
+
 </div>
 
 ---
